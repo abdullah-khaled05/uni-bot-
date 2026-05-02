@@ -9,7 +9,7 @@ AI chatbot using RAG + FastAPI + React
 - Dockerized deployment
 
 ## Tech Stack
-- React
+- React (Vite)
 - FastAPI
 - PostgreSQL
 - Ollama
